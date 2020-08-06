@@ -1,5 +1,5 @@
 import express from "express";
-import ClassesController from "./src/controllers/classesControllers";
+import ClassesController from "./src/controllers/ClassesControllers";
 import ConnectionsControllers from "./src/controllers/ConnectionsControllers";
 const routes = express.Router();
 
